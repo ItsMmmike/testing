@@ -15,7 +15,7 @@ sudo rm /usr/share/nginx/html/*
 sudo wget -O /etc/nginx/nginx.conf "https://raw.githubusercontent.com/ItsMmmike/testing/refs/heads/main/warrior_target01/nginx.conf"
 sudo wget -O /usr/share/nginx/html/index.html "https://raw.githubusercontent.com/ItsMmmike/testing/refs/heads/main/warrior_target01/index.html"
 sudo wget -O /usr/share/nginx/html/You_Tried.png "https://raw.githubusercontent.com/ItsMmmike/testing/refs/heads/main/warrior_target01/You_Tried.png"
-sudo wget -O /usr/share/nginx/html/flag_demo.7z "https://raw.githubusercontent.com/ItsMmmike/testing/refs/heads/main/warror_target01/flag_demo.7z"
+sudo wget -O /usr/share/nginx/html/flag_demo.7z "https://raw.githubusercontent.com/ItsMmmike/testing/refs/heads/main/warrior_target01/flag_demo.7z"
 
 # Enable and Start Server
 sudo systemctl enable nginx
